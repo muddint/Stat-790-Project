@@ -1,0 +1,8 @@
+accelerate
+datasets
+gower
+pandas
+kaleido
+scikit-learn
+sdv
+ucimlrepo
